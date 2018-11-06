@@ -68,7 +68,7 @@ C蒟蒻在高一的时候掉入了OI这个无底坑中，在gay机房中安静�
 
 S神[@noco](https://www.luogu.org/space/show?uid=60883)有两套题，a和b，每套题均有n道，每一道题有一个固定的难度。S神要求C蒟蒻[@cs18](https://www.luogu.org/space/show?uid=59934)在两套题中共AC p道即可。
 
-可就在这时却迎来了X神[@_WA自动机](https://www.luogu.org/space/show?uid=48711)的阻挠，X神通过这两套题构造了一套新题c，使得难度cij=ai * bj（你MD一下吧）。X神要求C蒟蒻AK新题，但由于C蒟蒻实在太蒟了，只能在新题中使用S神的神器划分出一个尽可能大的矩形，使得该划分出的区间中题的总难度不大于C蒟蒻的能力上限max，问C蒟蒻是否能AC p道题
+可就在这时却迎来了X神[@_WA自动机](https://www.luogu.org/space/show?uid=48711)的阻挠，X神通过这两套题构造了一套新题c，使得难度$c_{i,j}=a_i \times b_j$。X神要求C蒟蒻AK新题，但由于C蒟蒻实在太蒟了，只能在新题中使用S神的神器划分出一个尽可能大的矩形，使得该划分出的区间中题的总难度不大于C蒟蒻的能力上限max，问C蒟蒻是否能AC p道题
 
 ### **简要题解**
 
