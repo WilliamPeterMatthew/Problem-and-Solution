@@ -76,6 +76,6 @@ S神[@noco](https://www.luogu.org/space/show?uid=60883)有两套题，a和b，�
 
 显然可以用贪心处理，最后选取的子矩阵的和为题目a中一段难度和乘以题目b中一段难度和，我们可以贪心，处理在每一套题目中长度为l的难度和的最小值，这样可以保证在难度不超过C蒟蒻能力的情况下可以AC的题更多。
 
-如果不知道~~gay~~机房中最蒟蒻的人的英文首字母缩写大写，可以查看[博客](https://williampetermatthew.github.io/)的友链。
+如果不知道机房中最蒟蒻的人的英文首字母缩写大写，可以查看[博客](https://williampetermatthew.github.io/)的友链。
 
 本题By：[cs18](https://www.luogu.org/space/show?uid=59934)
